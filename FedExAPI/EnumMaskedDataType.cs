@@ -1,0 +1,15 @@
+﻿namespace FedExAPI
+{
+    public enum EnumMaskedDataType
+    {
+        CUSTOMS_VALUE,
+        DIMENSIONS,
+        DUTIES_AND_TAXES_PAYOR_ACCOUNT_NUMBER,
+        INSURED_VALUE,
+        SECONDARY_BARCODE,
+        SHIPPER_INFORMATION,
+        TERMS_AND_CONDITIONS,
+        TOTAL_WEIGHT,
+        TRANSPORTATION_CHARGES_PAYOR_ACCOUNT_NUMBER
+    }
+}

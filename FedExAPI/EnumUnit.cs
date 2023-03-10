@@ -1,0 +1,32 @@
+﻿namespace FedExAPI
+{
+    public enum EnumUnit
+    {
+        AR,
+        CM,
+        CFT,
+        M3,
+        DOZ,
+        DPR,
+        EA,
+        LFT,
+        G,
+        GR,
+        IN,
+        KG,
+        LNM,
+        LTR,
+        M,
+        MG,
+        ML,
+        NO,
+        OZ,
+        PR,
+        PCS,
+        LB,
+        SFT,
+        M2,
+        SYD,
+        YD
+    }
+}
